@@ -1,0 +1,7 @@
+import { Note } from './../models/note.model';
+export interface NoteState {
+  notes: Note[];
+  error: string;
+  //isSuccess: boolean;
+  isLoading: boolean;
+}

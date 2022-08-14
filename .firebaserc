@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "student-app-958c9": {
+      "hosting": {
+        "messenger-cloned": [
+          "student-app-958c9"
+        ]
+      }
+    },
+    "notepab-online": {
+      "hosting": {
+        "messenger-cloned": [
+          "notepab-online"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "notepab-online"
+  }
+}
